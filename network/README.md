@@ -38,5 +38,3 @@ Segate 5TB NAS Running NAS OS it contains two 2.5TB hard drives in RAID 0
 ## Switches
 
  * [] - Network Closet, MAC: 
-
-The default gateway port is port 1 and DHCP traffic is only allowed through that port. To change this, edit the security settings in the switch's web configuration by going to security -> dhcp screening. 
