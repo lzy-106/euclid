@@ -35,6 +35,14 @@ Segate 5TB NAS Running NAS OS it contains two 2.5TB hard drives in RAID 0
 
 ## APs
 
+* 1st floor Living Room
+* 1st floor Dining Hall
+* 2nd floor Room 4
+* 3rd floor Network closet
+* 3rd floor Room 16
+
+You can find exact locations on one of the versions of the floor plan in the eucnm google drive.
+
 ## Switches
 
  * [] - Network Closet, MAC: 
