@@ -8,7 +8,7 @@ Bandwidth limit is 150 Mb/s up and 20 Mb/s down.
 
 ## Modem ##
     Models: ARRIS SURFboard SB6183 DOCSIS 3.0 Cable Modem
-    Location: 3rd floor network closet
+    Location: Network closet
 
 ## Main router ##
 
@@ -16,7 +16,7 @@ Bandwidth limit is 150 Mb/s up and 20 Mb/s down.
     Internal IP:       10.20.36.1
     Netmask:           255.255.255.252 (/22)
     DHCP client range: 10.20.36.100 - 10.20.39.190 (859 addresses)
-    Location: 3rd floor network closet
+    Location: Network closet
 
 Our current router is TP-Link TL-WR1043ND v2.1 running OpenWRT
 
@@ -30,6 +30,7 @@ Our current router is TP-Link TL-WR1043ND v2.1 running OpenWRT
 ## Computers ##
 
 ### Main ###
+    Type: Custom
     Motherboard: ASUS M5A78L-M/USB3
     CPU: AMD FX-6300
     GPU: ATI RADEON R7 240
@@ -39,11 +40,10 @@ Our current router is TP-Link TL-WR1043ND v2.1 running OpenWRT
     OS: Windows 10
     IP address:
     Location: Living room
+    Monitor: BenQ GL2460HM 24" 1080p
 
-### Secondary ###
-    Euclid-secondary (No monitor)
-    Lenovo H330
-    http://www.newegg.com/Product/Product.aspx?Item=N82E16883255240
+### Secondary (No Monitor) ###
+    Type: Lenovo H330, Newegg item number - N82E16883255240
     Motherboard: unknown
     CPU: Intel Pentium G630
     GPU: Intel HD Graphics 2000
@@ -56,7 +56,7 @@ Our current router is TP-Link TL-WR1043ND v2.1 running OpenWRT
 
 
 ### Kitchen ###
-    Intel NUC DCCP847DYE
+    Type: Intel NUC DCCP847DYE
     Motherboard: unknown
     CPU: Intel Celeron 847
     GPU: Intel HD
@@ -66,6 +66,7 @@ Our current router is TP-Link TL-WR1043ND v2.1 running OpenWRT
     OS: Xubuntu
     IP address:
     Location: Kitchen
+    Monitor: Samsung S22E310 22" 1080p
 
 
 ## Printers ##
@@ -86,11 +87,10 @@ Our current router is TP-Link TL-WR1043ND v2.1 running OpenWRT
 * 3rd floor Network closet, IP:, MAC:, chanels:
 * 3rd floor Room 16, IP:, MAC:, chanels:
 
-You can find exact locations on one of the versions of the floor plan in the eucnm google drive.
-
+You can find exact locations within the "Access point locations" directory within the eucnm google drive.
 ## Switches (If they have an IP then they are managed) ##
 
- * [] - Network Closet, IP:10.20.56.9, MAC:08:bd:43:71:24:50 (Netgear GS748T)
- * [] - Kitchen, MAC: (Netgear GS108E)
- * [] - Living room media center, IP:, MAC: (TP-Link TL-SG108E)
- * [] - Living room computer center, MAC: (Netgear GS105Ev2)
+ * Network Closet, IP:10.20.56.9, MAC:08:bd:43:71:24:50 (Netgear GS748T)
+ * Kitchen, MAC: (Netgear GS108E)
+ * Living room media center, IP:, MAC: (TP-Link TL-SG108E)
+ * Living room computer center, MAC: (Netgear GS105Ev2)
