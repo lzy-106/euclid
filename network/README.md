@@ -17,12 +17,10 @@ Our current router is TP-Link TL-WR1043ND v2.1 running OpenWRT
 
 ## Servers
 
-### server1 ###
+### server1 (Segate 5TB NAS Running NAS OS it contains two 2.5TB hard drives in RAID 0) ###
     
     Internal IP: 10.20.56.10
     Location: Network closet
-
-Segate 5TB NAS Running NAS OS it contains two 2.5TB hard drives in RAID 0 
 
 ## Printers
 
@@ -33,7 +31,7 @@ Segate 5TB NAS Running NAS OS it contains two 2.5TB hard drives in RAID 0
     Ethernet MAC: 30:05:5c:a8:c0:81
     Wi-Fi MAC: 44:1c:a8:52:40:03
 
-## APs
+## APs (Ubiquity UniFi UAP-AC-PRO) ##
 
 * 1st floor Living Room
 * 1st floor Dining Hall
@@ -45,4 +43,7 @@ You can find exact locations on one of the versions of the floor plan in the euc
 
 ## Switches
 
- * [] - Network Closet, MAC: 
+ * [] - Network Closet, MAC: (Netgear GS748T)
+ * [] - Kitchen, MAC: (Netgear GS108E)
+ * [] - Living room media center, MAC: (TP-Link TL-SG108E)
+ * [] - Living room computer center, MAC: (Netgear GS105Ev2)
