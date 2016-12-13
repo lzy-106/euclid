@@ -27,6 +27,47 @@ Our current router is TP-Link TL-WR1043ND v2.1 running OpenWRT
     Internal IP: 10.20.56.10
     Location: Network closet
 
+## Computers ##
+
+### Main ###
+    Motherboard: ASUS M5A78L-M/USB3
+    CPU: AMD FX-6300
+    GPU: ATI RADEON R7 240
+    Memory: DDR3 8GB
+    Disk: Crucial MX200 250GB
+    PSU: EVGA 450W
+    OS: Windows 10
+    IP address:
+    Location: Living room
+
+### Secondary ###
+    Euclid-secondary (No monitor)
+    Lenovo H330
+    http://www.newegg.com/Product/Product.aspx?Item=N82E16883255240
+    Motherboard: unknown
+    CPU: Intel Pentium G630
+    GPU: Intel HD Graphics 2000
+    Memory: 4GB DDR3
+    Disk: PNY 120GB SSD
+    PSU: 180W
+    OS: Windows 10
+    IP address: 
+    Location: Living room
+
+
+### Kitchen ###
+    Intel NUC DCCP847DYE
+    Motherboard: unknown
+    CPU: Intel Celeron 847
+    GPU: Intel HD
+    Memory: DDR3 4GB
+    Disk: 64GB SSD
+    PSU: power brick
+    OS: Xubuntu
+    IP address:
+    Location: Kitchen
+
+
 ## Printers ##
 
 ### printer1 (Brother MFC-9330CDW) ###
@@ -39,11 +80,11 @@ Our current router is TP-Link TL-WR1043ND v2.1 running OpenWRT
 
 ## APs (Ubiquity UniFi UAP-AC-PRO) ##
 
-* 1st floor Living Room, IP:, MAC:
-* 1st floor Dining Hall, IP:, MAC:
-* 2nd floor Room 4, IP:, MAC:
-* 3rd floor Network closet, IP:, MAC:
-* 3rd floor Room 16, IP:, MAC:
+* 1st floor Living Room, IP:, MAC:, chanels:
+* 1st floor Dining Hall, IP:, MAC:, chanels:
+* 2nd floor Room 4, IP:, MAC:, chanels:
+* 3rd floor Network closet, IP:, MAC:, chanels:
+* 3rd floor Room 16, IP:, MAC:, chanels:
 
 You can find exact locations on one of the versions of the floor plan in the eucnm google drive.
 
