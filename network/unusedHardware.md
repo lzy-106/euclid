@@ -1,6 +1,7 @@
 ## Router ##
 ### Edgerouter ERPOE-5 (Fully functional) ###
-
+    Location: Network closet
+    
 ## Printers ##
 
 ### Brother HL-L2340DW (Broken) ###
