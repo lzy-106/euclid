@@ -2,9 +2,9 @@
 
 ## Internet uplink ##
 
-Comcast Business 
+Comcast Business Internet 75
 
-Bandwidth limit is 150 Mb/s up and 20 Mb/s down.
+Bandwidth limit is 75 Mb/s up and 15 Mb/s down.
 
 ## Modem ##
     Models: ARRIS SURFboard SB6183 DOCSIS 3.0 Cable Modem
